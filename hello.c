@@ -9,5 +9,7 @@ int main(void) {
      printf("major: Construction Engineering\n")
      printf("Raoul Tayo Sop\n");
      printf("major: Computer Engineering\n")
+     printf("Phaniso Shaba\n");
+     printf("Electrical Engineering")
      return 0;
 }
